@@ -18,6 +18,9 @@ dist-ssr
 .env.development.local
 .env.test.local
 
+#videos
+*.mp4
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
